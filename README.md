@@ -7,6 +7,6 @@ Addressing the escalating necessity for proficient and dependable autonomous veh
 # Overall journal access 
 [ https://thegrenze.com/index.php?display=page&view=journaldetails&id=8&year=2024&volume=10&issue=2 ]
 
-Year: 2024
-Volume: 10 
+Year: 2024 ; 
+Volume: 10 ; 
 Issue: 2
